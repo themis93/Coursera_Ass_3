@@ -1,0 +1,51 @@
+ body {
+  font-size: 18px;
+  color: black;
+  background-color: white;
+}
+
+h1{
+	font-weight: bold;
+	font-size: 50px;
+	color: red;
+	font-family: "Indie Flower";
+	margin-top: -15px;
+}
+h2{
+	font-size: 4em;
+}
+
+#header-nav{
+	background-color: orange;
+	border: 2px solid red;
+}
+
+#nav-list{
+	border: 2px solid red;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.navbar-header{
+	padding: 15px;
+}
+#nav-list>li>a{
+	font-family: "Indie Flower";
+	color: red;
+	font-size: 1.5em;
+}
+#chicken{
+	border-top: 2px solid red;
+	border-bottom: 2px solid red;
+}
+#beef{
+	border-bottom: 2px solid red;
+}
+.navbar-toggle{
+	border: 5px solid;
+}
+#main-content{
+	background-color: yellow;
+	padding: 15px;
+	width: 90%;
+}
